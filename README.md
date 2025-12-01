@@ -49,7 +49,7 @@ A next-generation AI platform built for distributed intelligence, automation, an
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** <https://www.linkedin.com/in/timothy-pierce-28a4a4107>  
+- **LinkedIn:** <www.linkedin.com/in/timothy-p-28a4a4107>  
 - **Email:** <mailto:timothy.pierce444@gmail.com>  
 - **Discord:** `Sinless777`  
   - **Servers:**  
